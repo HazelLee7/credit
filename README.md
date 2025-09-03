@@ -31,4 +31,4 @@ Notes
 All notebooks use relative paths, so the project should run as-is once cloned.
 
 If you download your own WRDS data, place it into the appropriate data/raw/ folder before running preprocessing.
-Install all dependencies with:
+
