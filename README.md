@@ -1,4 +1,5 @@
-Project README
+README
+
 Data Access
 
 The original datasets are hosted on the Wharton Research Data Services (WRDS) platform.
